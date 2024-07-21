@@ -1,0 +1,6 @@
+C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/CMakeFiles/Main.dir
+C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/CMakeFiles/edit_cache.dir
+C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/HelpingFunctionLibrary/CMakeFiles/HelpingFunctionLibrary.dir
+C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/HelpingFunctionLibrary/CMakeFiles/edit_cache.dir
+C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/HelpingFunctionLibrary/CMakeFiles/rebuild_cache.dir

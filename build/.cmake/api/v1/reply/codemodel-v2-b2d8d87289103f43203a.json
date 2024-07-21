@@ -1,0 +1,102 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "HelpingFunctionLibrary",
+					"jsonFile" : "directory-HelpingFunctionLibrary-Debug-cb9e7c2d5350df0173cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "HelpingFunctionLibrary",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "static_library",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "HelpingFunctionLibrary",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "HelpingFunctionLibrary::@0954e8bb49b73bbb6dc5",
+					"jsonFile" : "target-HelpingFunctionLibrary-Debug-88d72df0e9a5433009bf.json",
+					"name" : "HelpingFunctionLibrary",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Main-Debug-c7feb0d07f11ebf80e61.json",
+					"name" : "Main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Sergey/Downloads/Homework-5--ugadaika/build",
+		"source" : "C:/Users/Sergey/Downloads/Homework-5--ugadaika"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

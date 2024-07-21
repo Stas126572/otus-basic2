@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Sergey/Downloads/Homework-5--ugadaika/build",
+  "command": "C:/Users/Sergey/gcc/bin/c++.exe  @CMakeFiles/Main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/Main.dir/Main.cpp.obj -c C:/Users/Sergey/Downloads/Homework-5--ugadaika/Main.cpp",
+  "file": "C:/Users/Sergey/Downloads/Homework-5--ugadaika/Main.cpp",
+  "output": "CMakeFiles/Main.dir/Main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/HelpingFunctionLibrary",
+  "command": "C:/Users/Sergey/gcc/bin/c++.exe   -g -o CMakeFiles/HelpingFunctionLibrary.dir/check_value.cpp.obj -c C:/Users/Sergey/Downloads/Homework-5--ugadaika/HelpingFunctionLibrary/check_value.cpp",
+  "file": "C:/Users/Sergey/Downloads/Homework-5--ugadaika/HelpingFunctionLibrary/check_value.cpp",
+  "output": "HelpingFunctionLibrary/CMakeFiles/HelpingFunctionLibrary.dir/check_value.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/HelpingFunctionLibrary",
+  "command": "C:/Users/Sergey/gcc/bin/c++.exe   -g -o CMakeFiles/HelpingFunctionLibrary.dir/high_scores.cpp.obj -c C:/Users/Sergey/Downloads/Homework-5--ugadaika/HelpingFunctionLibrary/high_scores.cpp",
+  "file": "C:/Users/Sergey/Downloads/Homework-5--ugadaika/HelpingFunctionLibrary/high_scores.cpp",
+  "output": "HelpingFunctionLibrary/CMakeFiles/HelpingFunctionLibrary.dir/high_scores.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sergey/Downloads/Homework-5--ugadaika/build/HelpingFunctionLibrary",
+  "command": "C:/Users/Sergey/gcc/bin/c++.exe   -g -o CMakeFiles/HelpingFunctionLibrary.dir/random_value.cpp.obj -c C:/Users/Sergey/Downloads/Homework-5--ugadaika/HelpingFunctionLibrary/random_value.cpp",
+  "file": "C:/Users/Sergey/Downloads/Homework-5--ugadaika/HelpingFunctionLibrary/random_value.cpp",
+  "output": "HelpingFunctionLibrary/CMakeFiles/HelpingFunctionLibrary.dir/random_value.cpp.obj"
+}
+]

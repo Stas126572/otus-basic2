@@ -1,0 +1,10 @@
+A 15
+B 12
+A 10
+B 1
+A 3
+Stat 100
+Stat 100
+Stat 10
+Stat 10
+Stat 10

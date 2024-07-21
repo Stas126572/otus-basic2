@@ -1,0 +1,2 @@
+C:/Users/Sergey/gcc/bin/ar.exe qc libHelpingFunctionLibrary.a CMakeFiles/HelpingFunctionLibrary.dir/check_value.cpp.obj CMakeFiles/HelpingFunctionLibrary.dir/high_scores.cpp.obj CMakeFiles/HelpingFunctionLibrary.dir/random_value.cpp.obj
+C:/Users/Sergey/gcc/bin/ranlib.exe libHelpingFunctionLibrary.a
